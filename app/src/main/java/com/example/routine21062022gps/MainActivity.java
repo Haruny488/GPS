@@ -36,8 +36,6 @@ public class MainActivity extends AppCompatActivity {
 
     LocationRequest locationRequest;
 
-    Test test;
-
     Priority priority;
 
     //Google APIS for location
